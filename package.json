@@ -1,6 +1,6 @@
 {
   "name": "components-ui-bao",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "main": "dist/react.js",
   "module": "dist/react.js",
   "exports": {
@@ -16,7 +16,10 @@
       "import": "./src/vue.ts",
       "types": "./src/vue.ts"
     },
-    "./vue/*": "./src/vue/src/*"
+    "./vue/plugin": {
+      "import": "./src/vue/plugin.ts",
+      "types": "./src/vue/plugin.ts"
+    }
   },
   "files": [
     "dist",
