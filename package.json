@@ -43,11 +43,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nguyenbao2004Ts/ui-kit-react.git"
+    "url": "https://github.com/nguyenbao2004Ts/components-ui-bao.git"
   },
-  "homepage": "https://github.com/nguyenbao2004Ts/ui-kit-react#readme",
+  "homepage": "https://github.com/nguyenbao2004Ts/components-ui-bao#readme",
   "bugs": {
-    "url": "https://github.com/nguyenbao2004Ts/ui-kit-react/issues"
+    "url": "https://github.com/nguyenbao2004Ts/components-ui-bao/issues"
   },
   "description": ""
 }
