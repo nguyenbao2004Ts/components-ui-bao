@@ -1,6 +1,6 @@
 {
   "name": "components-ui-bao",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/react.js",
   "module": "dist/react.js",
   "exports": {
