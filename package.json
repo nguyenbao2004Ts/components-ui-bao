@@ -13,14 +13,17 @@
       "types": "./dist/react.d.ts"
     },
     "./vue": {
-      "import": "./dist/vue.js",
-      "types": "./dist/vue.d.ts"
+      "import": "./src/vue.ts",
+      "types": "./src/vue.ts"
     },
     "./vue/*": "./src/vue/src/*"
   },
   "files": [
     "dist",
-    "src/vue"
+    "src/vue",
+    "src/vue.ts",
+    "src/vue.d.ts",
+    "src/core"
   ],
   "scripts": {
     "build": "tsc",
