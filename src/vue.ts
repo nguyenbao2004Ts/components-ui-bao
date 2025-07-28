@@ -1,3 +1,2 @@
-// This file is for Vue components which should be used directly
-// Import example: import Button from 'components-ui-bao/vue/button.vue'
-export const ButtonVue = "./src/vue/src/button.vue";
+// Export tất cả Vue components từ entry point duy nhất
+export * from "./vue/src/index";
