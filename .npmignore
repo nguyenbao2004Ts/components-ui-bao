@@ -7,6 +7,7 @@ vite.config.ts
 tailwind.config.js
 index.html
 node_modules/
+**/node_modules/
 .git/
 .gitignore
 README.md
